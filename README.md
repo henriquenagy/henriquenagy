@@ -1,3 +1,8 @@
+<p>
+   <img src="https://ibb.co/SJByfxj/cl.png" alt="CL Thumb" border="0" width="100%">
+</p>
+
+
 ## Hello! Welcome to my Github 👨‍💻
 
 [![Blog](https://img.shields.io/website?label=hnmagencia.com.br&style=for-the-badge&url=https://hnmagencia.com.br)](https://hnmagencia.com.br)
