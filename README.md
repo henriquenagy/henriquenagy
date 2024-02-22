@@ -26,12 +26,12 @@
 
 <div style="display: inline_block">
   <b>My favourites tools:</b> 
-  <img src="URL_DA_IMAGEM_DO_TYPESCRIPT" width="20"/> <b>Html</b>, 
-  <img src="URL_DA_IMAGEM_DO_REACT" width="20"/> <b>Css</b>, 
-  <img src="URL_DA_IMAGEM_DO_NODEJS" width="20"/> <b>Wordpress</b>
-   <img src="URL_DA_IMAGEM_DO_NODEJS" width="20"/> <b>Elementor</b><br>
+  <img src="https://i.ibb.co/JmfX14D/html-5.png" width="20"/> <b>Html</b>, 
+  <img src="https://i.ibb.co/QKYnvcL/css.png" width="20"/> <b>Css</b>, 
+  <img src="https://i.ibb.co/K6gHY3s/wordpress.png" width="20"/> <b>Wordpress</b>
+   <img src="https://i.ibb.co/HGbs2ys/elementor.png" width="20"/> <b>Elementor</b><br>
   <b>Currently learning:</b> 
-  <img src="URL_DA_IMAGEM_DO_GRAPHQL" width="20"/> <b>Javascript</b>
+  <img src="https://i.ibb.co/TqVmQGJ/js.png" width="20"/> <b>Javascript</b>
 </div><br/>
 
 
