@@ -24,19 +24,9 @@
 
 • I currently work at @wedezgn, my frontend web design company.
 
-<div style="display: inline_block">
-  <b>My favourites tools:</b> 
-  <img src="https://i.ibb.co/JmfX14D/html-5.png" width="20"/> <b>Html</b>, 
-  <img src="https://i.ibb.co/QKYnvcL/css.png" width="20"/> <b>Css</b>, 
-  <img src="https://i.ibb.co/K6gHY3s/wordpress.png" width="20"/> <b>Wordpress</b>
-   <img src="https://i.ibb.co/HGbs2ys/elementor.png" width="20"/> <b>Elementor</b><br>
-  <b>Currently learning:</b> 
-  <img src="https://i.ibb.co/TqVmQGJ/js.png" width="20"/> <b>Javascript</b>
-</div><br/>
+My favourites tools: <img src="https://i.ibb.co/JmfX14D/html-5.png" width="20"/> <b>Html</b>, <img src="https://i.ibb.co/QKYnvcL/css.png" width="20"/> <b>Css</b>, <img src="https://i.ibb.co/K6gHY3s/wordpress.png" width="20"/> <b>Wordpress</b>, <img src="https://i.ibb.co/HGbs2ys/elementor.png" width="20"/> <b>Elementor</b>
 
-My favourites tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
-
-Currently learning: <img src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/> <b>GraphQL</b>, <img src="https://i.ibb.co/T0XzYVK/apollo.png" width="20"/> <b>Apollo</b>
+Currently learning: <img src="https://i.ibb.co/TqVmQGJ/js.png" width="20"/> <b>Javascript</b>
 
 
 
