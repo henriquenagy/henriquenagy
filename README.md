@@ -9,10 +9,11 @@
   <a href="https://www.linkedin.com/in/h-n-m-7102166a" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
-  <a href="https://wedezgn.com.br" style="text-decoration: none;">
-    <img src="https://img.shields.io/website?label=Wedezgn Website&style=for-the-badge&url=https://wedezgn.com.br" alt="Wedezgn Website">
+  <a href="https://wedezgn.com.br" style="text-decoration: none;" title="Wedezgn Website">
+    <img src="https://img.shields.io/website?label=Wedezgn%20Website&style=for-the-badge&url=https://hnmagencia.com.br" alt="Wedezgn Website">
   </a>
 </p>
+
 
 
 
