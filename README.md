@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://instagram.com/henrique.namar" target="_blank">@henrique.namar</a> •
+   <a href="https://www.linkedin.com/in/h-n-m-7102166a/" target="_blank">Linkedin Profile</a> •
   <a href="https://www.instagram.com/wedezgn" target="_blank">@wedezgn</a> •
-  <a href="https://wedezgn.com.br" target="_blank">Wedezgn Website</a> •
-   <a href="https://www.linkedin.com/in/h-n-m-7102166a/" target="_blank">Linkedin Profile</a>
+  <a href="https://wedezgn.com.br" target="_blank">Wedezgn Website</a> 
+   
 </p>
 
 ---
