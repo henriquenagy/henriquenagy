@@ -2,6 +2,14 @@
    <img src="https://i.ibb.co/1bTQzng/Github.png" alt="CL Thumb" border="0" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://instagram.com/henrique.namar">@henrique.namar</a> •
+  <a href="https://www.instagram.com/wedezgn">@wedezgn</a> •
+  <a href="https://wedezgn.com.br">Wedezgn Website</a>
+   <a href="https://www.linkedin.com/in/h-n-m-7102166a/">Linkedin Profile</a>
+</p>
+
+---
 
 ## Hello! Welcome to my Github 👨‍💻
 
