@@ -2,19 +2,18 @@
    <img src="https://i.ibb.co/1bTQzng/Github.png" alt="CL Thumb" border="0" width="100%">
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      [![@henrique.namar](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henrique.namar)
-    </td>
-    <td>
-      [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-n-m-7102166a)
-    </td>
-    <td>
-      [![Wedezgn Website](https://img.shields.io/website?label=hnmagencia.com.br&style=for-the-badge&url=https://hnmagencia.com.br)](https://wedezgn.com.br)
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://instagram.com/henrique.namar">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@henrique.namar">
+  </a>
+  <a href="https://www.linkedin.com/in/h-n-m-7102166a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
+  <a href="https://wedezgn.com.br">
+    <img src="https://img.shields.io/website?label=hnmagencia.com.br&style=for-the-badge&url=https://hnmagencia.com.br" alt="Wedezgn Website">
+  </a>
+</p>
+
 
 
 ---
