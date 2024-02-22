@@ -15,7 +15,6 @@
 </p>
 
 ---
-
 ## Nice to have you here on my github profile 👨‍💻
 <b>A little bit about me:</b> My first contact with frontend was in 2015, with html and css, but i didn't keep it going.
 
@@ -25,18 +24,7 @@
 
 • I currently work at @wedezgn, my frontend web design company.
 
-
-My favourites tools: 
-
-Currently learning: 
-
-
-
-[![Blog](https://img.shields.io/website?label=hnmagencia.com.br&style=for-the-badge&url=https://hnmagencia.com.br)](https://hnmagencia.com.br)
-
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/henriquenagy)
-
-![Henrique Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquenagy&show_icons=true&theme=algolia&count_private=true)
+---
 
 ## Techs that i use on my projects:
 
@@ -48,9 +36,8 @@ Currently learning:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquenagy&layout=compact)
 
-i'm a Webdesigner who loves to create new concepts and bring results to my clients!
+---
 
-### Last Projects:
-- [Portfólio - Webdesign](https://hnmagencia.com.br)<br/>
-- [Portfólio - Behance](https://www.behance.net/henriquenagy)<br/>
-- [Todos os links do Github](https://henriquenagy.github.io/CODIGOS-HTML-CSS/)<br/>
+![Henrique Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquenagy&show_icons=true&theme=algolia&count_private=true)
+
+
