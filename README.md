@@ -24,7 +24,6 @@
 
 • I currently work at @wedezgn, my frontend web design company.
 
----
 
 ## Techs that i use on my projects:
 
@@ -35,8 +34,6 @@
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquenagy&layout=compact)
-
----
 
 ![Henrique Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquenagy&show_icons=true&theme=algolia&count_private=true)
 
