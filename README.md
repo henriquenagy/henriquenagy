@@ -26,12 +26,12 @@
 
 <div style="display: inline_block">
   <b>My favourites tools:</b> 
-  <img src="URL_DA_IMAGEM_DO_TYPESCRIPT" width="20"/> <b>TypeScript</b>, 
-  <img src="URL_DA_IMAGEM_DO_REACT" width="20"/> <b>React Js & React Native</b>, 
-  <img src="URL_DA_IMAGEM_DO_NODEJS" width="20"/> <b>Node Js</b> <br>
+  <img src="URL_DA_IMAGEM_DO_TYPESCRIPT" width="20"/> <b>Html</b>, 
+  <img src="URL_DA_IMAGEM_DO_REACT" width="20"/> <b>Css</b>, 
+  <img src="URL_DA_IMAGEM_DO_NODEJS" width="20"/> <b>Wordpress</b>
+   <img src="URL_DA_IMAGEM_DO_NODEJS" width="20"/> <b>Elementor</b><br>
   <b>Currently learning:</b> 
-  <img src="URL_DA_IMAGEM_DO_GRAPHQL" width="20"/> <b>GraphQL</b>, 
-  <img src="URL_DA_IMAGEM_DO_APOLLO" width="20"/> <b>Apollo</b>
+  <img src="URL_DA_IMAGEM_DO_GRAPHQL" width="20"/> <b>Javascript</b>
 </div><br/>
 
 
