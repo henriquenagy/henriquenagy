@@ -2,15 +2,11 @@
    <img src="https://i.ibb.co/1bTQzng/Github.png" alt="CL Thumb" border="0" width="100%">
 </p>
 
-<p align="center">
-   [![@henrique.namar](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henrique.namar) •
+  [![@henrique.namar](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henrique.namar) •
    [![Linkedin]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})](https://www.linkedin.com/in/h-n-m-7102166a)•
    [![@wedezgn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wedezgn)•
    [![Wedezgn Website](https://img.shields.io/website?label=hnmagencia.com.br&style=for-the-badge&url=https://hnmagencia.com.br)](https://wedezgn.com.br)
    [![Blog](https://img.shields.io/website?label=hnmagencia.com.br&style=for-the-badge&url=https://hnmagencia.com.br)](https://hnmagencia.com.br)
-   
-</p>
-
 ---
 
 ## Nice to have you here on my github profile 👨‍💻
