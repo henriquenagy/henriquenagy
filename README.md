@@ -20,7 +20,9 @@
 
 • In 2019 i restarted using wordpress and elementor, which became an expert in creating pages and websites.
 
-• In 2022, I started learning HTML and CSS with Professor Guanabara's online classes on YouTube, and now I'm learning JavaScript with him.
+• In 2022, I started learning HTML and CSS with Professor Guanabara's online classes on YouTube.
+
+• In this year i've entered to an Udemy course of Professor Jonas Schmedtmann, called: The Complete JavaScript Course 2024: From Zero to Expert!
 
 • I currently work at @wedezgn, my frontend web design company.
 
