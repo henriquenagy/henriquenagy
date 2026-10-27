@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/henriquenagy/henriquenagy/main/Henrique%20Nagy%20full%20stack%20web%20developer.png" alt="Header" width="100%">
+  <img src="./Henrique%20Nagy%20full%20stack%20web%20developer.png" alt="Header" width="100%">
 </p>
 
 <p align="center">
-  <a href="[https://instagram.com/henrique.namar](https://www.instagram.com/henriquedezgn/)">
+  <a href="https://www.instagram.com/henriquedezgn/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="[https://www.linkedin.com/in/h-n-m-7102166a](https://www.linkedin.com/in/henriquenagym/)">
+  <a href="https://www.linkedin.com/in/henriquenagym/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://wedezgn.com.br">
-    <img src="https://img.shields.io/website?label=Wedezgn%20Website&style=for-the-badge&url=https://wedezgn.com.br" alt="Website">
+  <a href="https://wedezgn.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Company_Portfolio-Wedezgn-6C37C9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Company Portfolio">
   </a>
 </p>
 
