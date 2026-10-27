@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.ibb.co/1bTQzng/Github.png](https://github.com/henriquenagy/henriquenagy/blob/main/Henrique%20Nagy%20full%20stack%20web%20developer.png)" alt="Header" width="100%">
+  <img src="https://raw.githubusercontent.com/henriquenagy/henriquenagy/main/Henrique%20Nagy%20full%20stack%20web%20developer.png" alt="Header" width="100%">
 </p>
 
 <p align="center">
