@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/henrique.namar">
+  <a href="[https://instagram.com/henrique.namar](https://www.instagram.com/henriquedezgn/)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/h-n-m-7102166a">
+  <a href="[https://www.linkedin.com/in/h-n-m-7102166a](https://www.linkedin.com/in/henriquenagym/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://wedezgn.com.br">
